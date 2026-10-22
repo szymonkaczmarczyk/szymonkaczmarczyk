@@ -1,4 +1,4 @@
-<img alt="Szymon Kaczmarczyk - I build interfaces that move." src="assets/hero.svg" width="100%">
+<img alt="Szymon Kaczmarczyk - I build interfaces that move." src="hero.svg" width="100%">
 
 I live somewhere between web development and marketing. I like building things people actually click, and
 figuring out why they click.
